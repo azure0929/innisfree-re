@@ -4,9 +4,6 @@
 /* MapoAgape Font */
 @import url("https://webfontworld.github.io/mapo/MapoAgape.css");
 
-/* XEicon */
-@import url("http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css");
-
 body {
   font-family: "Noto Sans KR", sans-serif;
   font-size: 14px;
