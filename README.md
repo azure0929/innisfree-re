@@ -55,24 +55,24 @@ Environment
   <div class="inner">
     <div class="content">
       <div class="photo">
-        <img src="images/image-01.png" alt="img01" />
-        <img src="images/image-01-2.jpg" alt="img01-2" />
+        <img src="images/image-01.png" alt="블랙티 신제품" />
+        <img src="images/image-01-2.jpg" alt="블랙티 신제품-1" />
       </div>
       <p>블랙티 신제품 스킨&로션 출시 기념!</p>
       <a href="#none">자세히보기</a>
     </div>
     <div class="content">
       <div class="photo">
-        <img src="images/image-02.png" alt="img02" />
-        <img src="images/image-02-2.jpg" alt="img02-2" />
+        <img src="images/image-02.png" alt="그린티 씨드" />
+        <img src="images/image-02-2.jpg" alt="그린티 씨드-2" />
       </div>
       <p>그린티 씨드 세럼 세트</p>
       <a href="#none">자세히보기</a>
     </div>
     <div class="content">
       <div class="photo">
-        <img src="images/image-03.png" alt="img03" />
-        <img src="images/image-03-2.jpg" alt="img03-2" />
+        <img src="images/image-03.png" alt="진정크림" />
+        <img src="images/image-03-2.jpg" alt="진정크림-2" />
       </div>
       <p>진정크림 출시 리뷰 이벤트</p>
       <a href="#none">자세히보기</a>
@@ -86,24 +86,24 @@ Environment
   <div class="inner">
     <div class="content">
       <div class="photo">
-        <img src="images/image-04.png" alt="img04" />
-        <img src="images/image-04-2.jpg" alt="img04-2" />
+        <img src="images/image-04.png" alt="트루 마데카소사이드" />
+        <img src="images/image-04-2.jpg" alt="트루 마데카소사이드-2" />
       </div>
       <p>트루 마데카소사이드 레드 진정크림</p>
       <a href="#none">자세히보기</a>
     </div>
     <div class="content">
       <div class="photo">
-        <img src="images/image-05.png" alt="img05" />
-        <img src="images/image-05-2.jpg" alt="img05-2" />
+        <img src="images/image-05.png" alt="노세범 파우더" />
+        <img src="images/image-05-2.jpg" alt="노세범 파우더-2" />
       </div>
       <p>노세범 파우더 쿠션</p>
       <a href="#none">자세히보기</a>
     </div>
     <div class="content">
       <div class="photo">
-        <img src="images/image-06.png" alt="img06" />
-        <img src="images/image-06-2.jpg" alt="img06-2" />
+        <img src="images/image-06.png" alt="글로우 틴트" />
+        <img src="images/image-06-2.jpg" alt="글로우 틴트-2" />
       </div>
       <p>글로우 틴트 립밤</p>
       <a href="#none">자세히보기</a>
