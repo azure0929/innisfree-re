@@ -1,7 +1,5 @@
 ## '이니스프리 메인페이지 리디자인'
 
----
-
 <br>
 
 ### • 배포 주소: [https://innisfree-main-redesign.netlify.app/](https://innisfree-main-redesign.netlify.app/)
