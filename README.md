@@ -38,7 +38,7 @@ Environment
 
 ### 전체 페이지
 
-<img src="https://github.com/azure0929/innisfree-main-redesign/assets/128226527/d751903c-bca6-40c9-8434-87b828d49236" />
+<img src="https://github.com/user-attachments/assets/37cab5c1-16f6-4503-bd27-cafa2d21e058" />
 
 <br><br>
 
