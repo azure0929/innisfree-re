@@ -19,12 +19,7 @@ ul {
   list-style: none;
 }
 
-/* section : intro */
-.intro {
-  width: 100%;
-  overflow: hidden;
-}
-.intro header {
+header {
   position: fixed;
   width: 100%;
   left: 50%;
@@ -32,7 +27,7 @@ ul {
   background-color: rgba(0, 0, 0, 0.3);
   z-index: 10;
 }
-.intro header .inner {
+header .inner {
   width: 1200px;
   margin: 0 auto;
   display: flex;
@@ -80,7 +75,17 @@ ul {
 .icon i:hover:nth-child(1),
 .icon i:hover:nth-child(2),
 .icon i:hover:nth-child(3) {
-  color: #003333;
+  color: #663333;
+}
+video {
+  width: 100%;
+  z-index: -1;
+}
+
+/* section : intro */
+.intro {
+  width: 100%;
+  overflow: hidden;
 }
 .intro-text {
   font-family: "MapoAgape";
@@ -98,10 +103,6 @@ ul {
 }
 .first {
   font-size: 18px;
-}
-video {
-  width: 100%;
-  z-index: -1;
 }
 
 /* section : event & best */
