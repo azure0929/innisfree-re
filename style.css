@@ -452,7 +452,6 @@ footer .gnb {
   }
   /* intro */
   .intro-text {
-    border: 1px solid red;
     width: auto;
     bottom: 24px;
   }
